@@ -75,5 +75,11 @@ namespace SQLiteExampleConnection
                 listView.Items.Add(str);
             }
         }
+
+        private void clearComboBox_Click(object sender, RoutedEventArgs e)
+        {
+            comboBox.SelectedIndex = -1;
+            listView.Items.Clear();
+        }
     }
 }
