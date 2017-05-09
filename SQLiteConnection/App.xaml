@@ -1,7 +1,7 @@
-﻿<Application x:Class="SQLiteConnection.App"
+﻿<Application x:Class="SQLiteExampleConnection.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:SQLiteConnection"
+             xmlns:local="clr-namespace:SQLiteExampleConnection"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          

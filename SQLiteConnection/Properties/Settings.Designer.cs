@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SQLiteConnection.Properties
+namespace SQLiteExampleConnection.Properties
 {
 
 
